@@ -1,16 +1,13 @@
-## Hi there 👋
+# Thiago Alves de Almeida - Desenvolvedor
 
-<!--
-**thiago-aa/thiago-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="mailto:almeida.thiagoalvesde@gmail.com"><img src="https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=gmail&logoColor=white&labelColor=red"/></a>
+<a href="https://www.linkedin.com/in/thiago-almeida22/"><img src="https://img.shields.io/badge/LinkedIn-Thiago%20Almeida-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue"/></a>
+<a href="https://thiago-almeida-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-gray?style=flat-square&logo=web&logoColor=white&labelColor=gray"/></a>
 
-Here are some ideas to get you started:
+## Resumo Profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor com sólida experiência em desenvolvimento web utilizando JavaScript, ReactJS, HTML, CSS, Next.js e WordPress. Proativo e comprometido com a entrega de soluções de alta qualidade. Graduado em **Tecnólogo em Análise e Desenvolvimento de Sistemas pela Fatec Sorocaba**. Busco oportunidades em ambientes desafiadores para contribuir com o desenvolvimento de interfaces de usuário envolventes e funcionais.
+
+## Tecnologias
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/sql.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
