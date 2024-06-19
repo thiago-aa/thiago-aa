@@ -6,7 +6,7 @@
 
 ## Resumo Profissional
 
-Desenvolvedor com sólida experiência em desenvolvimento web utilizando JavaScript, ReactJS, HTML, CSS, Next.js e WordPress. Proativo e comprometido com a entrega de soluções de alta qualidade. Graduado em **Tecnólogo em Análise e Desenvolvimento de Sistemas pela Fatec Sorocaba**. Busco oportunidades em ambientes desafiadores para contribuir com o desenvolvimento de interfaces de usuário envolventes e funcionais.
+Desenvolvedor com sólida experiência em desenvolvimento web utilizando JavaScript, ReactJS, HTML, CSS, Next.js e WordPress. Proativo e comprometido com a entrega de soluções de alta qualidade. Graduado em **Tecnólogo em Análise e Desenvolvimento de Sistemas pela Fatec Sorocaba**.
 
 ## Tecnologias
 
